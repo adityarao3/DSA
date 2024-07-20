@@ -12,4 +12,5 @@ int main(){
     cout << "Sum of first " << n << " natural numbers is: " << sum << endl;
     
     return 0;
+    kuch bhi kar diya commit
 }
